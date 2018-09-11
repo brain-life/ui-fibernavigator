@@ -1,7 +1,7 @@
 [![Abcdspec-compliant](https://img.shields.io/badge/ABCD_Spec-v1.1-green.svg)](https://github.com/brain-life/abcd-spec)
 
 # ui-fibernavigator
-Light-weight javascript App to visualize white matter tracta and fibers produced using fiber tractography.
+Light-weight javascript App to visualize white matter tracts and fibers produced using fiber tractography.
 
 ### Authors
 - Soichi Hayashi (hayashis@iu.edu)
