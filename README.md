@@ -1,7 +1,10 @@
 [![Abcdspec-compliant](https://img.shields.io/badge/ABCD_Spec-v1.1-green.svg)](https://github.com/brain-life/abcd-spec)
 
 # ui-fibernavigator
-Light-weight javascript App to visualize white matter tracts and fibers produced using fiber tractography.
+
+[FiberNavigator](https://www.youtube.com/watch?v=A3KCekqPTok) is a real-time tractography and visualization tool developed by [Sherbrooke Connectivity Imaging Lab](https://github.com/scilus).
+
+This repo wraps FiberNavigator in a Docker in a way that it can be expoed on Brainlife.io.
 
 ### Authors
 - Soichi Hayashi (hayashis@iu.edu)
@@ -16,32 +19,3 @@ Light-weight javascript App to visualize white matter tracts and fibers produced
 
 ### References 
 [Pestilli et al. (2014) Evaluation and statistical inference for human connectomes. Nature Methods.](https://www.ncbi.nlm.nih.gov/pubmed/25194848)
-
-## Running the App 
-
-### On Brainlife.io
-
-UPDATE.
-
-### Running Locally (on your machine)
-
-UPDATE
-
-### Sample Datasets
-
-UPDATE
-
-## Output
-
-UPDATE.
-
-#### Product.json
-
-Not relevant for this App as it does not geenrate processed data. 
-
-### Dependencies
-
-This App only requires [singularity](https://www.sylabs.io/singularity/) to run. If you don't have singularity, you will need to install following dependencies.  
-
-  - UPDATE: https://github.com/address
-  
