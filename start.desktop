@@ -1,5 +1,0 @@
-[Desktop Entry] 
-
-Type=Application
-Exec=/start.sh
-#Exec=/fibernavigator/bin/fibernavigator /input/t1.nii.gz
